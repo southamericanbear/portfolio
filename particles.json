@@ -1,0 +1,13 @@
+{
+    "particles":{
+        "number":{
+            "value": 500
+        },
+        "color":{
+            "value": "#fff"
+        },
+        "shape":{
+            "type":"squere"
+        }
+    }
+}

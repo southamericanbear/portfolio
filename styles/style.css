@@ -1,4 +1,7 @@
 @import "/styles/parts/header.css";
+@import "/styles/parts/particles.css";
+@import "/styles/parts/home.css";
+@import "/styles/parts/btn.css";
 
 :root {
   font-size: 16px;

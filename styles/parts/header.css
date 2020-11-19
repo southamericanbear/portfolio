@@ -42,7 +42,8 @@
 }
 
 .fas,
-.far {
+.far,
+.fab {
   min-width: 2rem;
   margin: 0 1.5rem;
 }
@@ -87,4 +88,9 @@
     display: inline;
     transition: opacity 600ms;
   }
+}
+
+.fa-angle-double-right {
+  width: 30000%;
+  transform: rotate(0deg);
 }

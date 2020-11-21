@@ -3,6 +3,7 @@
 @import "/styles/parts/home.css";
 @import "/styles/parts/btn.css";
 @import "/styles/parts/about.css";
+@import "/styles/parts/skills.css";
 
 :root {
   font-size: 16px;

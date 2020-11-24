@@ -5,6 +5,7 @@
 @import "/styles/parts/about.css";
 @import "/styles/parts/skills.css";
 @import "/styles/parts/work.css";
+@import "/styles/parts/contact.css";
 
 :root {
   font-size: 16px;

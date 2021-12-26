@@ -46,3 +46,45 @@ main {
     margin: 0;
   }
 }
+
+.construction-card {
+  background-color: rgba(255, 255, 255, 0.897);
+  color: black;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+
+.info h1,
+p {
+  margin: 0px;
+}
+
+.social-link {
+  font-size: 50px !important;
+  color: black;
+}
+
+@media (max-width: 1140px) {
+  .construction-card {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .social-media {
+    display: flex;
+    align-items: center;
+  }
+  .info {
+    padding: 5%;
+  }
+}
+
+@media (max-width: 900px) {
+  .construction-card {
+    width: 100%;
+  }
+}
